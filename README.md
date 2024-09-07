@@ -17,17 +17,17 @@ Summary statistics and pattern discovery to guide further analysis.
 Creation of various plots and charts to represent data distributions, relationships, and trends.
 Includes heatmaps, histograms, scatter plots, and more for intuitive data exploration.
 
-## Modeling:
-
-### Regression: Techniques to model and predict continuous variables related to diabetes.
-### Classification: Methods to classify data points into categories such as disease presence or absence.
-### Clustering: Unsupervised learning to find natural groupings within the data.
-### Deep Learning: Advanced models for capturing complex patterns and making predictions.
-Data Preparation:
+## Data Preparation:
 
 Feature engineering and encoding to prepare data for modeling.
 Normalization and scaling techniques to enhance model performance.
 Results and Evaluation:
 
-Evaluation of model performance using various metrics.
+## Modeling:
+
+### Regression: Techniques to model and predict continuous variables related to diabetes.
+### Classification: Methods to classify data points into categories such as disease presence or absence.
+### Clustering: Unsupervised learning to find natural groupings within the data.
+
+## Evaluation of model performance using various metrics.
 Analysis of results and insights to understand predictions and trends.
