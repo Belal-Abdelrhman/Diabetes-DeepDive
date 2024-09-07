@@ -21,7 +21,6 @@ Includes heatmaps, histograms, scatter plots, and more for intuitive data explor
 
 Feature engineering and encoding to prepare data for modeling.
 Normalization and scaling techniques to enhance model performance.
-Results and Evaluation:
 
 ## Modeling:
 
@@ -29,5 +28,6 @@ Results and Evaluation:
 ### Classification: Methods to classify data points into categories such as disease presence or absence.
 ### Clustering: Unsupervised learning to find natural groupings within the data.
 
-## Evaluation of model performance using various metrics.
+## Results and Evaluation:
+Evaluation of model performance using various metrics.
 Analysis of results and insights to understand predictions and trends.
